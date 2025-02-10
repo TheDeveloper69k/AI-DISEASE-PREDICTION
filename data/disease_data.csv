@@ -1,0 +1,51 @@
+Fever,Cough,Fatigue,Sore Throat,Headache,Nausea,Shortness of Breath,Body Pain,Loss of Taste,Sweating,Disease
+1,1,0,1,0,0,0,0,0,0,Flu
+0,1,1,0,1,0,0,0,0,0,COVID-19
+1,0,1,1,0,0,0,0,0,1,Malaria
+1,1,1,0,1,1,0,0,0,0,Dengue
+0,0,0,0,0,1,1,0,0,0,Food Poisoning
+1,0,1,0,1,0,0,1,0,1,Typhoid
+1,1,1,0,1,0,1,1,0,0,Pneumonia
+0,0,0,0,0,0,0,0,1,0,Vitamin Deficiency
+1,1,1,1,1,1,0,0,0,1,Cold
+1,0,1,0,0,0,0,0,0,0,Bronchitis
+1,1,1,1,1,1,1,1,1,1,Asthma
+0,1,1,0,1,0,0,1,0,1,Allergy
+0,1,0,1,0,0,1,0,1,0,Tuberculosis
+1,0,1,1,0,0,0,0,0,1,Sinusitis
+0,1,0,0,1,1,1,1,0,0,Gastritis
+1,0,1,0,0,0,1,1,0,1,Hepatitis
+1,1,0,1,1,0,1,1,1,1,Cholera
+0,0,1,1,1,0,0,1,0,0,Leptospirosis
+1,1,0,0,0,1,0,0,1,1,Urinary Tract Infection
+0,1,1,0,1,0,0,0,0,1,Conjunctivitis
+1,0,1,0,1,0,0,0,1,0,Stroke
+0,1,1,1,0,1,0,1,0,0,Heart Attack
+1,1,1,1,1,0,1,1,0,1,Acid Reflux
+1,1,1,0,0,0,0,0,1,0,Diabetes
+1,1,1,0,1,0,1,0,1,1,High Blood Pressure
+1,0,0,1,1,0,0,0,1,0,Cirrhosis
+1,1,1,0,0,1,0,0,0,1,Liver Failure
+0,0,1,0,1,1,0,0,0,1,Chronic Fatigue Syndrome
+1,0,1,0,1,0,1,1,0,1,Anemia
+1,1,0,0,0,1,0,0,1,1,Migraine
+1,0,0,0,1,0,0,1,0,0,Epilepsy
+0,1,1,1,1,0,1,0,1,0,Lung Cancer
+1,1,1,1,1,0,0,0,0,0,Kidney Infection
+1,0,1,1,0,1,1,1,0,1,Osteoarthritis
+1,1,0,1,0,0,1,1,0,0,Sickle Cell Anemia
+1,1,0,0,1,1,0,1,0,1,Influenza
+0,0,1,1,0,0,0,0,1,0,Sepsis
+0,1,0,1,1,0,1,1,0,1,Gout
+1,1,1,0,0,1,0,0,1,0,HIV/AIDS
+1,0,0,1,0,0,1,1,1,1,Malnutrition
+0,0,1,0,1,1,0,1,1,1,Hyperthyroidism
+1,1,0,1,0,0,1,1,0,0,Hypothyroidism
+0,0,1,1,1,1,0,0,1,0,Pneumococcal Infection
+1,1,1,0,1,0,0,0,1,0,Gallbladder Disease
+1,0,0,1,1,0,1,0,1,0,Multiple Sclerosis
+0,1,1,1,0,1,0,1,0,1,Parkinson’s Disease
+1,0,0,0,1,1,1,0,1,1,Rheumatoid Arthritis
+0,1,1,1,0,0,0,1,0,1,Psoriasis
+1,0,0,0,0,1,1,0,1,0,Cystic Fibrosis
+0,1,1,1,1,1,0,0,0,0,Zika Virus

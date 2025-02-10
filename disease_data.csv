@@ -1,0 +1,51 @@
+Fever,Cough,Fatigue,Sore Throat,Disease
+1,1,0,1,Flu
+0,1,1,0,COVID-19
+1,0,1,1,Malaria
+1,1,1,0,Dengue
+0,0,0,0,Food Poisoning
+1,0,1,0,Typhoid
+1,1,1,0,Pneumonia
+0,0,0,0,Vitamin Deficiency
+1,1,1,1,Cold
+1,0,1,0,Bronchitis
+1,1,1,1,Asthma
+0,1,1,0,Allergy
+0,1,0,1,Tuberculosis
+1,0,1,1,Sinusitis
+0,1,0,0,Gastritis
+1,0,1,0,Hepatitis
+1,1,0,1,Cholera
+0,0,1,1,Leptospirosis
+1,1,0,0,Urinary Tract Infection
+0,1,1,0,Conjunctivitis
+1,0,1,0,Stroke
+0,1,1,1,Heart Attack
+1,1,1,1,Acid Reflux
+1,1,1,0,Diabetes
+1,1,1,0,High Blood Pressure
+1,0,0,1,Cirrhosis
+1,1,1,0,Liver Failure
+0,0,1,0,Chronic Fatigue Syndrome
+1,0,1,0,Anemia
+1,1,0,0,Migraine
+1,0,0,0,Epilepsy
+0,1,1,1,Lung Cancer
+1,1,1,1,Kidney Infection
+1,0,1,1,Osteoarthritis
+1,1,0,1,Sickle Cell Anemia
+1,1,0,0,Influenza
+0,0,1,1,Sepsis
+0,1,0,1,Gout
+1,1,1,0,HIV/AIDS
+1,0,0,1,Malnutrition
+0,0,1,0,Hyperthyroidism
+1,1,0,1,Hypothyroidism
+0,0,1,1,Pneumococcal Infection
+1,1,1,0,Gallbladder Disease
+1,0,0,1,Multiple Sclerosis
+0,1,1,1,Parkinson’s Disease
+1,0,0,0,Rheumatoid Arthritis
+0,1,1,1,Psoriasis
+1,0,0,0,Cystic Fibrosis
+0,1,1,1,Zika Virus
