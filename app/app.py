@@ -5,6 +5,7 @@ import joblib
 
 # ✅ Load the trained model
 model = joblib.load(r"C:\Users\Acer\Desktop\AI-Disease-Prediction\models\disease_model.pkl")
+model = joblib.load(r"C:\Users\hiten\GitHub\AI-Disease-Prediction\models\disease_model.pkl")
 
 # ✅ Load dataset to get feature names
 df = pd.read_csv(r"C:\Users\Acer\Desktop\AI-Disease-Prediction\data\disease_data.csv")
